@@ -1,0 +1,102 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Form styling */
+.input-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Individual Input Box */
+.input-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: left;
+}
+
+label {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #fdffff;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  background-color: #00bd10;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.button2 {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  background-color: #7f1318;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #090909;
+}
+
+/* Header and layout */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ecedf2;
+}
+h2{
+  font-size: 0.9rem;
+  color: red;
+}
+
+/* Add responsiveness for small screens */
+@media screen and (max-width: 600px) {
+  #root {
+    padding: 1rem;
+  }
+
+  .input-form {
+    max-width: 100%;
+  }
+
+  input {
+    font-size: 0.9rem;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+/* Styling for static text (Event Name and Ticket Price) */
+p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #c8b6f5;
+  margin-top: 5px;
+}
