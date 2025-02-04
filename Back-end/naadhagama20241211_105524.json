@@ -1,0 +1,11 @@
+{
+  "totalTicket": 50,
+  "maxCusTicket": 5,
+  "producingTime": 2,
+  "consumingTime": 2,
+  "maxProTicket": 5,
+  "eventName": "naadhagama",
+  "ticketPrice": 200.0,
+  "noOfBuyers": 4,
+  "noOfMerch": 4
+}

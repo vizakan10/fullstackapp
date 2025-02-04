@@ -1,0 +1,11 @@
+{
+  "totalTicket": 10,
+  "maxCusTicket": 4,
+  "producingTime": 2,
+  "consumingTime": 3,
+  "maxProTicket": 4,
+  "eventName": "lasttest",
+  "ticketPrice": 2000.0,
+  "noOfBuyers": 5,
+  "noOfMerch": 5
+}

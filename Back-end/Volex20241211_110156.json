@@ -1,0 +1,11 @@
+{
+  "totalTicket": 5,
+  "maxCusTicket": 5,
+  "producingTime": 2,
+  "consumingTime": 2,
+  "maxProTicket": 5,
+  "eventName": "Volex",
+  "ticketPrice": 300.0,
+  "noOfBuyers": 4,
+  "noOfMerch": 4
+}

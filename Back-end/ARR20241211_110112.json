@@ -1,0 +1,11 @@
+{
+  "totalTicket": 20,
+  "maxCusTicket": 4,
+  "producingTime": 2,
+  "consumingTime": 2,
+  "maxProTicket": 4,
+  "eventName": "ARR",
+  "ticketPrice": 2000.0,
+  "noOfBuyers": 5,
+  "noOfMerch": 5
+}

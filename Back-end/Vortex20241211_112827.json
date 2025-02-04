@@ -1,0 +1,11 @@
+{
+  "totalTicket": 30,
+  "maxCusTicket": 4,
+  "producingTime": 4,
+  "consumingTime": 2,
+  "maxProTicket": 4,
+  "eventName": "Vortex",
+  "ticketPrice": 2133.0,
+  "noOfBuyers": 4,
+  "noOfMerch": 4
+}

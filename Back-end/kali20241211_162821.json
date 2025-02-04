@@ -1,0 +1,11 @@
+{
+  "totalTicket": 10,
+  "maxCusTicket": 4,
+  "producingTime": 2,
+  "consumingTime": 2,
+  "maxProTicket": 4,
+  "eventName": "kali",
+  "ticketPrice": 200.0,
+  "noOfBuyers": 5,
+  "noOfMerch": 5
+}
